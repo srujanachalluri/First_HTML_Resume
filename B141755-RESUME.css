@@ -1,0 +1,87 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 10, 2018, 2:15:14 PM
+    Author     : RGUKT
+*/
+body{
+    background-color: lightcyan;
+}
+h1{
+    color:red;
+    background-color: lemonchiffon;
+    text-align: center;
+    padding:2px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+h2{
+    color:blue;
+    background-color: lemonchiffon;
+    text-align: right;
+    padding:1px;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top:-97px;
+}
+.sajju{
+    color:black;
+    
+    text-align: center;
+    padding:10px;
+    margin-left: 45%;
+    margin-right:30%;
+
+}
+.sai{
+    
+    
+  
+    color:blue;
+    background-color: lemonchiffon;
+    text-align:left;
+    padding:1px;
+    margin-left: 40%;
+    margin-right: 40%;
+    
+}
+h3{
+    color:blue;
+    background-color: lemonchiffon;
+    text-align:left;
+   margin-right: 80%;
+}
+.anu{
+    color:black;
+    background-color:lightsalmon;
+}
+.saru{
+    color:black;
+    background-color:lightsalmon;
+}
+p{
+    font-size:30px;
+}
+.j{
+    text-align: right;
+    margin-left: 80%;
+    margin-right: 25%;
+    margin-top: -13%;
+ 
+     color:blue;
+    background-color: lemonchiffon;
+}
+.ja{
+    text-align: right;
+    margin-left: 80%;
+    margin-right: 25%;
+    margin-top: 2%;
+    color:blue;
+    background-color: lemonchiffon;
+}
+h4{
+    font-size:20px;
+}
