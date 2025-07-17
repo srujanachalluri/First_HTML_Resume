@@ -16,11 +16,11 @@ This is a simple HTML-based personal resume website. It's perfect for showcasing
 - (Optional) JavaScript
 
 ## 📸 Screenshot
-![Resume Website Screenshot]
+![Resume Website Screenshot](resume-website.png)
 
 🌐 Demo
 If deployed on GitHub Pages, access the live version here:
-Live Demo 
+Live Demo : https://srujanachalluri.github.io/First_HTML_Resume/
 
 
 📬 Contact
